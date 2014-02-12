@@ -1,4 +1,4 @@
-JavaEESquad.github.io
+Java EE Squad public site
 =====================
 
-JavaEESquad public site
+Repository contains the source for the site if the Java EE Squad.
